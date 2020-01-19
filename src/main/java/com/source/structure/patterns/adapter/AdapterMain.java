@@ -10,6 +10,7 @@ public class AdapterMain {
         drawing.draw();
         System.out.println("Resizing...");
         drawing.resize();
+        System.out.println("this is adapter main class");
     }
 
 }
