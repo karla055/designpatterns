@@ -1,18 +1,23 @@
 package com.source.structure.patterns.adapter;
 
-public class Circle implements Shapes {
+
+public class Circle implements Shape {
     @Override
     public void draw() {
-        System.out.println("Drawing Circle");
+        System.out.println("draw circle ");
     }
+
     @Override
     public void resize() {
-        System.out.println("Resizing Circle");
+        System.out.println("resize the circle");
     }
+
     @Override
     public String description() {
-        return "Circle object";
+        return "Circle";
     }
+
+
     @Override
     public boolean isHide() {
         return false;

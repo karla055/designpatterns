@@ -1,18 +1,23 @@
 package com.source.structure.patterns.adapter;
 
-public class Rectangle implements Shapes{
+
+public class Rectangle implements Shape {
     @Override
     public void draw() {
-        System.out.println("Drawing Rectangle");
+        System.out.println("drawing rectable");
     }
+
     @Override
     public void resize() {
-        System.out.println("Resizing Rectangle");
+        System.out.println("resize rectable ");
     }
+
     @Override
     public String description() {
-        return "Rectangle object";
+        return "rectable description";
     }
+
+
     @Override
     public boolean isHide() {
         return false;

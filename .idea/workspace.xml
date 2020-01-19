@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="401d599f-c064-4576-9001-5e30e36da429" name="Default Changelist" comment="" />
+    <list default="true" id="401d599f-c064-4576-9001-5e30e36da429" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +19,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -156,6 +161,24 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="53" />
+                  <entry key="3" value="128" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="275" y="23" key="#Project_Structure" timestamp="1579348262958">
       <screen x="0" y="0" width="1366" height="728" />
@@ -169,14 +192,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="600" y="68" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1579352202720" />
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1579352322086">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1579403913501">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579352322086" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1579403913501" />
     <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1579352089597">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1579352089597" />
+    <state width="384" height="442" key="Diff.GoToChangePopup" timestamp="1579414773246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="384" height="442" key="Diff.GoToChangePopup/0.0.1366.728@0.0.1366.728" timestamp="1579414773246" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1579414790102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1579414790102" />
     <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1579106762625">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -209,10 +240,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1579368092332" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579344731793">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1579403348732">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579344731793" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1579403348732" />
     <state x="65" y="60" key="new project wizard" timestamp="1578930526753">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

@@ -2,6 +2,7 @@ package com.source.structure.patterns.adapter;
 
 public class AdapterMain {
     public static void main(String[] args) {
+
         System.out.println("Creating drawing of shapes...");
         Drawing drawing = new Drawing();
         drawing.addShape(new Rectangle());
@@ -11,5 +12,4 @@ public class AdapterMain {
         System.out.println("Resizing...");
         drawing.resize();
     }
-
 }
