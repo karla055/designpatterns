@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="401d599f-c064-4576-9001-5e30e36da429" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/AdapterMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/AdapterMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/Drawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/Drawing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/source/structure/patterns/adapter/Shape.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +166,14 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_WIDTH">
+                <map>
+                  <entry key="2" value="53" />
+                  <entry key="3" value="128" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
