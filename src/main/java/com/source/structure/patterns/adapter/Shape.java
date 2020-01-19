@@ -1,4 +1,8 @@
 package com.source.structure.patterns.adapter;
 
-public class Shape {
+public interface Shape {
+    void draw();
+    void resize();
+    String description();
+    boolean isHide();
 }
