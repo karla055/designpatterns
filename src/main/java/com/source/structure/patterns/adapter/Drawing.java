@@ -3,6 +3,7 @@ package com.source.structure.patterns.adapter;
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class Drawing  {
 
     List<Shape> shapeList =  new ArrayList<>();
@@ -32,6 +33,7 @@ public class Drawing  {
             System.out.println("Nothing to resize");
         }else {
             shapeList.stream().forEach(shape -> shape.resize());
+
         }
     }
 }

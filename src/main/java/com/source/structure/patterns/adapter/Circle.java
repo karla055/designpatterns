@@ -1,5 +1,6 @@
 package com.source.structure.patterns.adapter;
 
+
 public class Circle implements Shape {
     @Override
     public void draw() {
@@ -16,8 +17,10 @@ public class Circle implements Shape {
         return "Circle";
     }
 
+
     @Override
     public boolean isHide() {
         return false;
     }
+
 }

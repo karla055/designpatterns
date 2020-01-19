@@ -1,5 +1,6 @@
 package com.source.structure.patterns.adapter;
 
+
 public class Rectangle implements Shape {
     @Override
     public void draw() {
@@ -15,6 +16,7 @@ public class Rectangle implements Shape {
     public String description() {
         return "rectable description";
     }
+
 
     @Override
     public boolean isHide() {
